@@ -1,6 +1,2 @@
-/observerPattern/
 /strategyPattern/
-/decorator/
-/decoratorPattern/
-/factoryMethodPattern/
-/abstractFactoryPattern/
+/singletonPattern/
